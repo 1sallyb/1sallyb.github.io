@@ -6,8 +6,10 @@ body, h1, p {
 
 /* Set a black background color and white text color for the body */
 body {
-    background-color: ##800080;
-    color: #fff;
+    background-color: #ff0000; /* Red background */
+    color: #ffffff; /* White text */
+}
+
 }
 
 /* Style the header (h1) */
