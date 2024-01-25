@@ -8,15 +8,15 @@ body, h1, p {
 body {
     background-color: #000;
     color: #fff;
-    font-family: Arial, sans-serif; /* Optional: Set a font-family */
-    padding: 20px; /* Optional: Add some padding to the body */
+    font-family: Arial, sans-serif;
+    padding: 20px;
 }
 
 /* Style the header (h1) */
 h1 {
     font-size: 2em;
     margin-bottom: 20px;
-    color: #007BFF; /* Optional: Add a different color for the header text */
+    color: #007BFF;
 }
 
 /* Style paragraphs (p) */
@@ -25,5 +25,3 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
 }
-
-
