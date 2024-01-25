@@ -6,8 +6,8 @@ body, h1, p {
 
 /* Set a black background color and white text color for the body */
 body {
-    background-color: #000;
-    color: #fff;
+    background-color: #e6f7ff; /* Soft Blue */
+    color: #333;
     font-family: Arial, sans-serif;
     padding: 20px;
 }
