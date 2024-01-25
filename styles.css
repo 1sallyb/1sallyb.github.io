@@ -6,17 +6,17 @@ body, h1, p {
 
 /* Set a black background color and white text color for the body */
 body {
-    background-color: #ff0000; /* Red background */
-    color: #ffffff; /* White text */
-}
-
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif; /* Optional: Set a font-family */
+    padding: 20px; /* Optional: Add some padding to the body */
 }
 
 /* Style the header (h1) */
 h1 {
     font-size: 2em;
     margin-bottom: 20px;
-    color: #007BFF; /* Blue color */
+    color: #007BFF; /* Optional: Add a different color for the header text */
 }
 
 /* Style paragraphs (p) */
@@ -26,8 +26,4 @@ p {
     margin-bottom: 20px;
 }
 
-/* Add some padding to the body */
-body {
-    padding: 20px;
-}
 
